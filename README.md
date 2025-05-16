@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm **Atharva Mandle**!
+# 💫 👋 Hi, I'm **Atharva Mandle**!
 
 I’m a Computer Science student passionate about frontend and backend development.  
 Skilled in React and Python, I love building projects to grow my skills and learn new technologies.  
