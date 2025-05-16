@@ -6,7 +6,6 @@ I enjoy contributing to open-source and solving real-world problems through code
 Always eager to explore innovative tools and improve my craft every day.
 
 🚀 Currently focusing on expanding my backend skills and working on exciting projects.  
-Let's connect, collaborate, and create something awesome together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stardustenigma20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-mandle-5214312aa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvamandle19@gmail.com) 
